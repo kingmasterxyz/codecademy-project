@@ -93,12 +93,11 @@ article {
     flex-direction: row;
     align-items: center;
     flex-wrap: wrap;
-    background-color: black;
 }
 .locations article {
     display: flex;
     flex-wrap: wrap;
     margin: 10px;
     padding: 20px;
-    background-color: black;
+    background-color: #f0f0f0;
 }
