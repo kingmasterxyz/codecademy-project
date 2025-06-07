@@ -86,13 +86,12 @@ footer {
     width: 1000px;
     justify-content: center;
 }
+
 article {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
-    align-items: center;
+    justify-content: center;
     background: black;
-    padding: 20px;
     margin: 10px;
     border-radius: 5px;
     width: 300px;
