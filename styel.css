@@ -90,5 +90,8 @@ footer {
 }
 
 .locations article {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
     background-color: black;
 }
