@@ -81,3 +81,16 @@ footer {
     align-items: center;
     width: 1000px;
 }
+
+article {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+}
+
+.locations {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
