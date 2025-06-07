@@ -82,9 +82,3 @@ footer {
     width: 1000px;
 }
 
-.locations {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    background-color: black;
-}
