@@ -82,22 +82,13 @@ footer {
     width: 1000px;
 }
 
-article {
-    background-color: black;
-    padding: 20px;
-    margin: 20px;
-}
-
 .locations {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     background-color: black;
 }
+
 .locations article {
-    display: flex;
-    flex-wrap: wrap;
-    margin: 10px;
-    padding: 20px;
     background-color: black;
 }
